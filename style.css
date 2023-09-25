@@ -67,6 +67,15 @@ ul {
     background-color: #1ABC9C;
 }
 
+.button__style {
+    margin: 10px;
+    border-radius: 10px;
+    border: solid white 1px;
+    padding: 10px;
+    color: white;
+    background-color: #1ABC9C;
+}
+
 
 
 
