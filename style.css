@@ -50,6 +50,23 @@ ul {
     padding-top: 90px;
 }
 
+.padding__portfolio {
+    padding-top: 20px;
+}
+
+.radious {
+    border-radius: 10px;
+}
+
+.portfolio__text {
+    font-size: 30px;
+}
+
+/*  about section */
+.about {
+    background-color: #1ABC9C;
+}
+
 
 
 
