@@ -76,6 +76,24 @@ ul {
     background-color: #1ABC9C;
 }
 
+/* contact section */
+.contact {
+    padding-bottom: 30px;
+}
+
+.form-floating input {
+    border: none;
+    border-bottom: solid gray 1px;
+    border-radius: 0px;
+}
+
+.form-floating textarea {
+    border: none;
+    border-bottom: solid gray 1px; 
+    border-radius: 0%;
+}
+
+
 
 
 
