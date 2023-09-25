@@ -1,5 +1,6 @@
 .star {
     font-size: 20px;
+    padding-top: 35px;
 }
 
 .star::before,
@@ -7,6 +8,21 @@
     content: '';
     display: inline-block;
     background-color: white;
+    width: 30%;
+    height: 4px;
+    border-radius: 10px;
+    vertical-align: middle;
+}
+
+.star-dark {
+    font-size: 20px;
+}
+
+.star-dark::before,
+.star-dark:after {
+    content: '';
+    display: inline-block;
+    background-color: black;
     width: 30%;
     height: 4px;
     border-radius: 10px;

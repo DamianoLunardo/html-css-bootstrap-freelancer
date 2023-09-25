@@ -40,6 +40,15 @@ ul {
     font-size: 50px;
 }
 
+.description__ability{
+    padding-top: 25px;
+}
+
+/* porfolio section */
+
+.portfolio__padding {
+    padding-top: 90px;
+}
 
 
 
