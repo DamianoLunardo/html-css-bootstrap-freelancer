@@ -20,6 +20,7 @@ header {
 
 ul {
     font-weight: 500;
+    cursor: pointer;
 }
 
 /* jumbo */
@@ -31,14 +32,15 @@ ul {
 }
 
 .avatar {
-    width: 250px;
-    height: 250px;
+    width: 220px;
+    height: 220px;
 }
 
 .text_size {
     font-size: 40px;
 }
- 
+
+
 
 
 
