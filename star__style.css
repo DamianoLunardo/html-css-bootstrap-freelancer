@@ -1,0 +1,14 @@
+.star {
+    font-size: 20px;
+}
+
+.star::before,
+.star:after {
+    content: '';
+    display: inline-block;
+    background-color: white;
+    width: 30%;
+    height: 4px;
+    border-radius: 10px;
+    vertical-align: middle;
+}
