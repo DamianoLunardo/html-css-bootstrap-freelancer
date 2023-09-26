@@ -4,6 +4,10 @@
     --bg-light-blue: var(#3A546D);
 }
 
+body::-webkit-scrollbar {
+    display: none;
+}
+
 header {
     background-color: #2c3e50;
     padding-top: 30px;
@@ -93,6 +97,39 @@ ul {
     border-radius: 0%;
 }
 
+/* footer */
+.footer-info {
+    background-color: #3A546D;
+    padding-top: 30px;
+    color: white;
+}
+
+ul, li {
+    list-style: none;
+    display: inline;
+}
+
+.footer-end {
+    background-color: #2C3E50;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.circle-icon {
+    border-radius: 100%;
+    border: solid white 1px;
+    padding: 15px 15px;
+}
+
+.circle-icon__facebooke {
+    border-radius: 100%;
+    border: solid white 1px;
+    padding: 15px 20px;
+}
+
+.text-color-violet {
+    color: violet;
+} 
 
 
 
