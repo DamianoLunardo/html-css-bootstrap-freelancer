@@ -1,9 +1,3 @@
-:root {
-    --bg-dark-blue: var(#2C3E50);
-    --bg-cyan: var(#1ABC9C);
-    --bg-light-blue: var(#3A546D);
-}
-
 body::-webkit-scrollbar {
     display: none;
 }
